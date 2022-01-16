@@ -1,0 +1,14 @@
+- create database firesbase create authen & create rule
+- create users joker@gmail.com
+- npm i redux-saga react-redux react-router-dom redux redux-devtools-extension
+- clean code
+- create route
+- create Signup
+- create actionTypes
+- crearte usersReducer
+- create rootReders
+- create usresSaga
+- create rootSagas
+- create store
+- add code Signup
+- create useAuthStatus
